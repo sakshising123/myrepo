@@ -1,1 +1,1 @@
-this is for git .
+this is my git repo.
